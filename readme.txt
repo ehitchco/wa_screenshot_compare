@@ -6,6 +6,7 @@
 
 
 # This code operates within a test environment made for this task
+# This test environment works in linux and windows, but not in mac
 # Activating the test environment
 # anaconda:
     # activate python3 environment:
